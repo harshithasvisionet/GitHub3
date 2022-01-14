@@ -11,6 +11,7 @@ namespace GitHub3
             oddnumber[1] = 3;
             oddnumber[2] = 5;
             Console.WriteLine(oddnumber[1]);
+            Console.WriteLine("is the oddnumber");
         }
     }
 }
